@@ -1,0 +1,5 @@
+$ wget -qO- https://get.docker.com/ | sh
+$ docker --version
+$ sudo usermod -aG docker $(whoami)
+$ ctrl + d
+
